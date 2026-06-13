@@ -17,6 +17,7 @@ Everything we ship falls into one of two tracks:
 |------|-------|--------|--------|
 | **BREACH PROTOCOL** | Entertainment | Co-op combat card game (1–4 players) | In production |
 | **The Aeon Compact** | Entertainment | TTRPG campaign (5E & PF2E) | In writing |
+| **A Year in Stonetop** | Entertainment | Stonetop-compatible adventures | Publishing free |
 | **CrewReview** | Serious Fun | TBD | Concept |
 | **Monsters of Business** | Serious Fun | TBD | Concept |
 
@@ -30,9 +31,16 @@ We're here to make great games, not to relitigate the politics of how they're ma
 
 ---
 
+## 🌲 Free tabletop content
+
+We're playing through a year-long **Stonetop** campaign and publishing the adventures for free as we go: starters, seasonal expeditions, and small modules. Read the source in **[the Stonetop repo](https://github.com/Pup-Pup-Games/Stonetop)**, grab the print-ready PDFs on [our itch.io page](https://pup-pup-games.itch.io), and chip in on [Ko-fi](https://ko-fi.com/puppupgames) if you want to keep it coming.
+
+---
+
 ## 🔗 Find us
 
 - 🕹️ **Get our games** → [pup-pup-games.itch.io](https://pup-pup-games.itch.io)
+- 🌲 **Free Stonetop content** → [github.com/Pup-Pup-Games/Stonetop](https://github.com/Pup-Pup-Games/Stonetop)
 - ☕ **Support the studio** → [Ko-fi.com/puppupgames](https://ko-fi.com/puppupgames)
 
 ---
