@@ -2,7 +2,7 @@
   <img src="assets/puppup-banner2.png" alt="Pup Pup Games — puppup.games" width="820">
 </p>
 
-<h1 align="center">Pup Pup Games 🐾</h1>
+<h1 align="center"><a href="https://puppup.games">Pup Pup Games 🐾</a></h1>
 
 <p align="center"><strong>Silly games for serious fun.</strong></p>
 
