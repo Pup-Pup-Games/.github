@@ -8,6 +8,7 @@
 
 <p align="center">
   <a href="https://pup-pup-games.itch.io"><img src="assets/cta-pdfs.PNG" alt="Print-ready PDFs on itch →"></a>
+  <a href="https://ko-fi.com/puppupgames"><img src="assets/cta-kofi.PNG" alt="Support us on Ko-fi"></a>
 </p>
 
 We're a small studio making board games, tabletop RPG material, and video games. Some are built purely to entertain. Others carry a real educational payload underneath the play. The bar for every one of them is the same: **it has to be genuinely fun first.**
@@ -55,6 +56,7 @@ We're playing through a year-long **Stonetop** campaign and publishing the adven
 
 <p align="center">
   <a href="https://pup-pup-games.itch.io"><img src="assets/cta-pdfs.PNG" alt="Print-ready PDFs on itch →"></a>
+  <a href="https://ko-fi.com/puppupgames"><img src="assets/cta-kofi.PNG" alt="Support us on Ko-fi"></a>
 </p>
 
 <p align="center"><sub><em>Pup Pup Games. Silly games for serious fun.</em></sub></p>
