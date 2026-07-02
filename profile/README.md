@@ -1,6 +1,14 @@
-# Pup Pup Games 🐾
+<p align="center">
+  <img src="assets/puppup-banner2.png" alt="Pup Pup Games — puppup.games" width="820">
+</p>
 
-### Silly games for serious fun.
+<h1 align="center">Pup Pup Games 🐾</h1>
+
+<p align="center"><strong>Silly games for serious fun.</strong></p>
+
+<p align="center">
+  <a href="https://pup-pup-games.itch.io"><img src="assets/cta-pdfs.PNG" alt="Print-ready PDFs on itch →"></a>
+</p>
 
 We're a small studio making board games, tabletop RPG material, and video games. Some are built purely to entertain. Others carry a real educational payload underneath the play. The bar for every one of them is the same: **it has to be genuinely fun first.**
 
@@ -45,4 +53,8 @@ We're playing through a year-long **Stonetop** campaign and publishing the adven
 
 ---
 
-<sub><em>Pup Pup Games. Silly games for serious fun.</em></sub>
+<p align="center">
+  <a href="https://pup-pup-games.itch.io"><img src="assets/cta-pdfs.PNG" alt="Print-ready PDFs on itch →"></a>
+</p>
+
+<p align="center"><sub><em>Pup Pup Games. Silly games for serious fun.</em></sub></p>
