@@ -24,10 +24,9 @@ Everything we ship falls into one of two tracks:
 
 | Game | Track | Medium | Status |
 |------|-------|--------|--------|
-| **BREACH PROTOCOL** | Entertainment | Co-op combat card game (1–4 players) | In production |
-| **The Aeon Compact** | Entertainment | TTRPG campaign (5E & PF2E) | In writing |
+| **Sled Dog** | Tools | TTRPG Tool for running theater of the mind games | Live |
+| **Retriever** | Tools | Obsidian / Claude toolset for capturing TTRPG notes | Live |
 | **A Year in Stonetop** | Entertainment | Stonetop-compatible adventures | Publishing free |
-| **CrewReview** | Serious Fun | TBD | Concept |
 | **Monsters of Business** | Serious Fun | TBD | Concept |
 
 ---
