@@ -29,6 +29,14 @@ Everything we ship falls into one of two tracks:
 | **A Year in Stonetop** | Entertainment | Stonetop-compatible adventures | Publishing free |
 | **Monsters of Business** | Serious Fun | TBD | Concept |
 
+### 🎬 See the tools in action
+
+<p align="center">
+  <a href="https://youtu.be/6IyDd5Q0IPA"><img src="assets/sleddog-overview.jpg" alt="Watch the Sled Dog overview video on YouTube" width="400"></a>
+  <a href="https://youtu.be/aKYVmUrCpUg"><img src="assets/retriever-overview.jpg" alt="Watch the Retriever overview video on YouTube" width="400"></a><br>
+  <em>▶ <a href="https://youtu.be/6IyDd5Q0IPA">Sled Dog overview</a> · ▶ <a href="https://youtu.be/aKYVmUrCpUg">Retriever overview</a></em>
+</p>
+
 ---
 
 ## 🤖 How we make our games
